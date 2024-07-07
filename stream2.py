@@ -31,3 +31,4 @@ if arquivo:
             st.video(arquivo)
 else:
     st.error('Ainda não tenho arquivo!')
+    
